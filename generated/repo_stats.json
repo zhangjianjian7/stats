@@ -6583,6 +6583,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-10-20": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -6591,7 +6596,7 @@
   },
   "zhangjianjian7/stats": {
     "stars": 0,
-    "clones": 20,
+    "clones": 25,
     "views": 0,
     "history": {
       "2025-10-18": {
@@ -6603,15 +6608,20 @@
         "stars": 0,
         "clones": 3,
         "views": 0
+      },
+      "2025-10-20": {
+        "stars": 0,
+        "clones": 5,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 20,
+    "last_clones": 25,
     "last_views": 0
   },
   "SECTL/SecStore-apply": {
     "stars": 2,
-    "clones": 4,
+    "clones": 5,
     "views": 2,
     "history": {
       "2025-10-18": {
@@ -6623,16 +6633,21 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-10-20": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 2,
-    "last_clones": 4,
+    "last_clones": 5,
     "last_views": 1
   },
   "SECTL/SecRandom-docs": {
     "stars": 4,
-    "clones": 22,
-    "views": 25,
+    "clones": 34,
+    "views": 27,
     "history": {
       "2025-10-18": {
         "stars": 4,
@@ -6643,10 +6658,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-10-20": {
+        "stars": 0,
+        "clones": 12,
+        "views": 2
       }
     },
     "last_stars": 4,
-    "last_clones": 22,
-    "last_views": 24
+    "last_clones": 34,
+    "last_views": 26
   }
 }
