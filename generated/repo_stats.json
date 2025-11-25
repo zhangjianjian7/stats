@@ -6682,7 +6682,7 @@
   "SECTL/SecStore-apply": {
     "stars": 2,
     "clones": 13,
-    "views": 10,
+    "views": 11,
     "history": {
       "2025-10-18": {
         "stars": 2,
@@ -6873,16 +6873,21 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-11-25": {
+        "stars": 0,
+        "clones": 0,
+        "views": 1
       }
     },
     "last_stars": 2,
     "last_clones": 2,
-    "last_views": 1
+    "last_views": 2
   },
   "SECTL/SecRandom-docs": {
     "stars": 5,
-    "clones": 105,
-    "views": 59,
+    "clones": 106,
+    "views": 66,
     "history": {
       "2025-10-18": {
         "stars": 4,
@@ -7073,11 +7078,16 @@
         "stars": 1,
         "clones": 42,
         "views": 19
+      },
+      "2025-11-25": {
+        "stars": 0,
+        "clones": 1,
+        "views": 7
       }
     },
     "last_stars": 5,
-    "last_clones": 60,
-    "last_views": 30
+    "last_clones": 61,
+    "last_views": 37
   },
   "LeafS825/deluxelzy": {
     "stars": 0,
@@ -7227,6 +7237,11 @@
       "2025-11-24": {
         "stars": 0,
         "clones": 1,
+        "views": 0
+      },
+      "2025-11-25": {
+        "stars": 0,
+        "clones": 0,
         "views": 0
       }
     },
@@ -7383,10 +7398,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-11-25": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 72,
+    "last_clones": 71,
     "last_views": 0
   },
   "LeafS825/SecRandom-Hub111": {
@@ -7518,10 +7538,15 @@
         "stars": 0,
         "clones": 1,
         "views": 0
+      },
+      "2025-11-25": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 2,
+    "last_clones": 1,
     "last_views": 0
   }
 }
